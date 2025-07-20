@@ -1,6 +1,6 @@
 # AiCE
 
-本项目基于 ScorpioLea/AiCE 仓库 fork。
+本项目基于 [ScorpioLea/AiCE](https://github.com/ScorpioLea/AiCE) 仓库 fork。
 
 在此基础上，我对代码进行了若干优化，主要包括：
 
